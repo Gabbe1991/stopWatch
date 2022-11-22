@@ -1,1 +1,17 @@
-{"type":"module","dependencies":{"dotenv":"^16.0.3","express-async-handler":"^1.2.0"}}
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express-async-handler": "^1.2.0"
+  },
+  "name": "watch",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
